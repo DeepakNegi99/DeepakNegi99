@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me ----here---- deepak99negi@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Modern day allrounder- full stack developer
 
 <!---
